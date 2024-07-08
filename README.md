@@ -1,6 +1,6 @@
 # _say-can-custom_
 
-This is an implementation of [google-research's SayCan](https://github.com/google-research/google-research/tree/master/saycan) to use latest opensource model alternatives for the Embodied AI pipeline.
+This is an implementation of [google-research SayCan](https://github.com/google-research/google-research/tree/master/saycan) to use latest opensource model alternatives for the Embodied AI pipeline.
 
 ## Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
 
