@@ -1,4 +1,4 @@
-# _say-can-custom_
+# _say-can-open_
 
 This is an implementation of [google-research SayCan](https://github.com/google-research/google-research/tree/master/saycan) to use latest opensource model alternatives for the Embodied AI pipeline.
 
