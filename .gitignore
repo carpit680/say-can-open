@@ -4,3 +4,6 @@ bowl/
 image_path_v2/
 robotiq_2f_85/
 ur5e/
+*.mp4
+ckpt_40000
+*.pkl
