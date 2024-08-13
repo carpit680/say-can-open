@@ -11,4 +11,4 @@ Paper: https://arxiv.org/abs/2204.01691
 
 ## Instructions
 
-This is a modified implementation of SayCan on a tabletop environment. Follow the setup instructions in the notebook for dependencies and VLLM(to run an OpenAI API compatible LLM server) installation. It should run by running each cell in order.
+This is a modified implementation of SayCan on a tabletop environment. Follow the setup instructions in the notebook for dependencies and VLLM(to run an OpenAI API-compatible LLM server) installation. It should run by running each cell in order.
